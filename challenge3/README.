@@ -1,0 +1,34 @@
+# (Project Name)
+Net Salary Calculator
+
+#### Date, 2024/04/02
+
+#### By *Silvester Lenkai*
+
+## Description
+It's a project that describes how an individual net salary is calculated.
+
+## Installation
+You use git remote add origin to be able to download the documents in the GitHub
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git remote add origin git@github.com:Silvesterlenkai/codeChallenge1.git
+
+```
+
+# Live Link
+[Git](gh-pages link)
+
+## Technologies used
+Javascript
+
+## Support and contact details
+github.com/Silvester-Lenkai
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2024.
