@@ -1,5 +1,7 @@
 # codeChallenge1
 Date 2024/04/02
+## Author
+*Silvester Lenkai*
 
 ## Description.
 This webpage shows the solution for three different codechallenges.Below are the challenges and what they entail:
@@ -33,7 +35,7 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 Git
 
 ## Installation instructions.**
-git remote add origin 
+git remote add origin git@github.com:Silvesterlenkai/codeChallenge1.git
 
 ## Live link 
 (Git)https://github.com/Silvesterlenkai/codeChallenge1.git
